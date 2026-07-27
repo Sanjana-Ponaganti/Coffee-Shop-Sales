@@ -11,6 +11,7 @@ An interactive Excel dashboard built to analyze 149K+ coffee shop transactions a
 # Files
 - Coffee Shop Sales.xlsx – Raw sales dataset containing transaction-level coffee shop sales data.
 - Excel Project Dashboard.xlsx – Final Excel dashboard containing KPIs, PivotTables, PivotCharts, and interactive slicers for sales analysis.
+- Coffee Shop Sales image - Final overview of the data
 # Project Workflow
 1.Raw Coffee Shop Sales Data
 2.Data Cleaning & Preprocessing
